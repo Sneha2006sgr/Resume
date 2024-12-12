@@ -45,11 +45,13 @@ hr {
 }
     
 h1, h2, h3 {
-    font-weight: 100;
+    font-weight: 100em;
     margin-bottom: 0;  
 }   
 header {
     text-align: center;
-    margin: auto 2em;
+    margin: auto 2e;
 }
-    
+#mainLeft {
+    border-right: 1px solid lightgray;
+}
